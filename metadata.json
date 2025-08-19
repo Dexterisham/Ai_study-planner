@@ -1,0 +1,5 @@
+{
+  "name": "Math Study Planner AI",
+  "description": "An AI-powered study assistant that analyzes math equations from your PDF documents and helps you create a personalized study plan.",
+  "requestFramePermissions": []
+}
